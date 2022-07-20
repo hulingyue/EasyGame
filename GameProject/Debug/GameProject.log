@@ -1,8 +1,0 @@
-﻿  GameProject.cpp
-  Python2Cpp.cpp
-  正在生成代码...
-GameProject.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Initialize，函数 "private: __thiscall Python2Cpp::Python2Cpp(void)" (??0Python2Cpp@@AAE@XZ) 中引用了该符号
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-E:\Python39\libs\python39.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-E:\Python39\libs\python39_d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-D:\vs2019\GameProject\Debug\GameProject.exe : fatal error LNK1120: 2 个无法解析的外部命令
