@@ -1,12 +1,12 @@
 ﻿#include <iostream>
 
-#include "Python2Cpp.h"
+#include "EasyPythonApi.h"
 
 using namespace std;
 
 int main() {
 
-	Python2Cpp* pyInstance =  Python2Cpp::instance();
+	EasyPythonApi* pyInstance = EasyPythonApi::instance();
 	pyInstance->loadPythonTasks("task");
 
 	return 0;

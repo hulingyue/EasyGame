@@ -156,10 +156,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GameProject.cpp" />
-    <ClCompile Include="Python2Cpp.cpp" />
+    <ClCompile Include="EasyPythonApi.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Python2Cpp.h" />
+    <ClInclude Include="EasyPythonApi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

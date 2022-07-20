@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\vs2019\GameProject\x64\Debug\GameProject.exe</FullPath>
+      <FullPath>D:\vs2019\Game\x64\Debug\GameProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
