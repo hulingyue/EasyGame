@@ -7,3 +7,5 @@
 
 2、 2022年08月：实现一部分C++并发执行Python任务
 
+参考文献：
+[1].c++(CMake篇) https://zhuanlan.zhihu.com/p/470681241
